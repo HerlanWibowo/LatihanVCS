@@ -23,3 +23,12 @@
        -lalu klik tombol create repository
        -kita juga bisa jika ingin membuat repository kita tidak ingin di lihat orang banyak klik private jika ingin sebaliknya klik publik
 ![Gambar 5](Screenshot/ss5.png)
+#### 8.Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository,sehingga dapat diakses oleh banyak user
+#### Untuk menambahkan remote repository server gunakan ***$ git remote origin [url]*** contoh:
+       git remote add origin https://github,com/HerlanWibowo/Latihan1.git
+#### 9.Untuk mengirim perubahan dari local repository ke server gunakan perintah git push
+#### Perintah ini akan meminta memasukkan username dan password pada akun github anda
+       git push -u origin master
+#### Jika ingin melihat hasilnya arahkan pada repositorynya
+#### Maka perubahan akan terlihat pada laman tersebut
+

@@ -31,4 +31,4 @@
        git push -u origin master
 #### Jika ingin melihat hasilnya arahkan pada repositorynya
 #### Maka perubahan akan terlihat pada laman tersebut
-
+![Gambar 6](Screenshot)/ss6.png)

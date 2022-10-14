@@ -32,3 +32,6 @@
 #### Jika ingin melihat hasilnya arahkan pada repositorynya
 #### Maka perubahan akan terlihat pada laman tersebut
 ![Gambar 6](Screenshot/ss6.png)
+#### Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+       Untuk melakukan cloning, gunakan perintah git clone [url]
+       $git clone https:github.com/HerlanWibowo/latihan1.git

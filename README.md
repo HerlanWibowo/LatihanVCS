@@ -21,5 +21,5 @@
        -Dari menu (icon +) klik New Repository
        -isi nama repository misal :Repository ke-1
        -lalu klik tombol create repository
-       -kita juga bisa jika ingin membuat repository kita tidak ingin di lihat orang banyak klik ***private*** jika ingin sebaliknya klik ***publik***
-       ![Gambar 5](Screenshot/ss5.png)
+       -kita juga bisa jika ingin membuat repository kita tidak ingin di lihat orang banyak klik private jika ingin sebaliknya klik publik
+![Gambar 5](Screenshot/ss5.png)
